@@ -1,4 +1,4 @@
-# Brain Tumor MRI - CNN 
+# Brain Tumor MRI - With CNN 
 
 ### Soruce: https://www.kaggle.com/code/atifaliak/brain-tumor-mri-classifier-cnn-to-the-rescue
 
